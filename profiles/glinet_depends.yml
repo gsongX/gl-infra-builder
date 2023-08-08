@@ -104,6 +104,11 @@ packages:
   - nfs-kernel-server-utils
   - tailscale
   - zerotier
+  - kmod-fs-nfs-v4
+  - kmod-fs-nfsd
+  - nfs-kernel-server
+  - nfs-utils-libs
+  - vsftpd-tls
 
 
 
